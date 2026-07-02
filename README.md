@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alice 👋
+# Hi, I'm AlicelieseLou 👋
 
 ### Machine Learning Engineer • Backend Developer • Informatics Student
 
